@@ -1,3 +1,7 @@
+package NumberCounter;
+
+import NumberCounter.NumberCounter;
+
 import javax.swing.*;
 
 public class Main {
@@ -5,7 +9,7 @@ public class Main {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                new SurveyForm();
+                NumberCounter counter = new NumberCounter();
             }
         });
     }

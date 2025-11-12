@@ -1,3 +1,4 @@
+package CharacterCounter;
 import javax.swing.*;
 
 public class Main {
@@ -5,7 +6,7 @@ public class Main {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                NumberCounter counter = new NumberCounter();
+                new CharacterCounterForm();
             }
         });
     }
