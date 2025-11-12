@@ -1,6 +1,7 @@
 # LA6_GUI
 
-Submitted By: Epilan Gian Cedrick G.
+Submitted By: Epilan Gian Cedrick G.    F2 BSCS2 
+Group: Saja Boys
 
 ---
 
