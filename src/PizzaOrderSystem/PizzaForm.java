@@ -15,7 +15,7 @@ public class PizzaForm extends JFrame {
 
     public PizzaForm()  {
         setVisible(true);
-        setTitle("Progress Form Indicator - Epilan");
+        setTitle("Pizza Order System - Epilan");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setContentPane(contentPanel);
         pack();
